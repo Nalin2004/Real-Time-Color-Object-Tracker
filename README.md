@@ -1,11 +1,16 @@
+# PROJECT 1
 # Real-Time Color Object Tracker
 
 It uses real time webcam to capture any blue color image or object, and calculates its area while showing the coordinating display of X,Y.
 
 It converts BGR to HSV first for better space conversion and basic mask generation with contour detection to bound a rectangle around the object while detecting a center point.
 
+# PROJECT 2
+# Real-Time Face Tracker
+
+It also uses webcam to tracks and check the number of faces using haar cascade classifiers.
+
+It detects face, eyes and smile, it also counts number of faces with face center point visualization with also a coordinate display and a FPS counter.
+
 It was basic project i did to understand more of the fundamentals of python and opencv.
 
-![alt text](image.png)
-
-![alt text](image-1.png)
