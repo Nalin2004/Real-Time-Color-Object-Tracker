@@ -19,4 +19,11 @@ Real time webcam feed to detect motion and display its status.
 
 It detects every type of motion while using bounding boxes and status display with FPS counter and Timestamp display.
 
+# PROJECT 4
+# Hand Tracking and Virtual Mouse
+
+A computer vision project built for real time mouse tracking including pinch gesture detection.
+
+The hand gesture helps in virtual mouse movements and virtual mouse click.
+
 It was basic project i did to understand more of the fundamentals of python and opencv.
